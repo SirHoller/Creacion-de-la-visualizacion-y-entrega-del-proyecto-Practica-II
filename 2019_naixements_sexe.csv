@@ -1,0 +1,147 @@
+﻿"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Sexe","Nombre"
+2019,1,"Ciutat Vella",1,"el Raval","Nenes",210
+2019,1,"Ciutat Vella",2,"el Barri Gòtic","Nenes",64
+2019,1,"Ciutat Vella",3,"la Barceloneta","Nenes",36
+2019,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Nenes",60
+2019,2,"Eixample",5,"el Fort Pienc","Nenes",101
+2019,2,"Eixample",6,"la Sagrada Família","Nenes",184
+2019,2,"Eixample",7,"la Dreta de l'Eixample","Nenes",159
+2019,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Nenes",136
+2019,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Nenes",210
+2019,2,"Eixample",10,"Sant Antoni","Nenes",121
+2019,3,"Sants-Montjuïc",11,"el Poble Sec","Nenes",138
+2019,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Nenes",6
+2019,3,"Sants-Montjuïc",13,"la Marina de Port","Nenes",116
+2019,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Nenes",29
+2019,3,"Sants-Montjuïc",15,"Hostafrancs","Nenes",67
+2019,3,"Sants-Montjuïc",16,"la Bordeta","Nenes",82
+2019,3,"Sants-Montjuïc",17,"Sants - Badal","Nenes",95
+2019,3,"Sants-Montjuïc",18,"Sants","Nenes",171
+2019,4,"Les Corts",19,"les Corts","Nenes",165
+2019,4,"Les Corts",20,"la Maternitat i Sant Ramon","Nenes",74
+2019,4,"Les Corts",21,"Pedralbes","Nenes",41
+2019,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Nenes",25
+2019,5,"Sarrià-Sant Gervasi",23,"Sarrià","Nenes",98
+2019,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Nenes",75
+2019,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Nenes",85
+2019,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Nenes",212
+2019,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Nenes",120
+2019,6,"Gràcia",28,"Vallcarca i els Penitents","Nenes",56
+2019,6,"Gràcia",29,"el Coll","Nenes",25
+2019,6,"Gràcia",30,"la Salut","Nenes",61
+2019,6,"Gràcia",31,"la Vila de Gràcia","Nenes",237
+2019,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Nenes",137
+2019,7,"Horta-Guinardó",33,"el Baix Guinardó","Nenes",81
+2019,7,"Horta-Guinardó",34,"Can Baró","Nenes",39
+2019,7,"Horta-Guinardó",35,"el Guinardó","Nenes",136
+2019,7,"Horta-Guinardó",36,"la Font d'en Fargues","Nenes",29
+2019,7,"Horta-Guinardó",37,"el Carmel","Nenes",109
+2019,7,"Horta-Guinardó",38,"la Teixonera","Nenes",37
+2019,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Nenes",34
+2019,7,"Horta-Guinardó",40,"Montbau","Nenes",26
+2019,7,"Horta-Guinardó",41,"la Vall d'Hebron","Nenes",23
+2019,7,"Horta-Guinardó",42,"la Clota","Nenes",6
+2019,7,"Horta-Guinardó",43,"Horta","Nenes",100
+2019,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Nenes",78
+2019,8,"Nou Barris",45,"Porta","Nenes",108
+2019,8,"Nou Barris",46,"el Turó de la Peira","Nenes",77
+2019,8,"Nou Barris",47,"Can Peguera","Nenes",7
+2019,8,"Nou Barris",48,"la Guineueta","Nenes",49
+2019,8,"Nou Barris",49,"Canyelles","Nenes",17
+2019,8,"Nou Barris",50,"les Roquetes","Nenes",67
+2019,8,"Nou Barris",51,"Verdun","Nenes",41
+2019,8,"Nou Barris",52,"la Prosperitat","Nenes",101
+2019,8,"Nou Barris",53,"la Trinitat Nova","Nenes",29
+2019,8,"Nou Barris",54,"Torre Baró","Nenes",10
+2019,8,"Nou Barris",55,"Ciutat Meridiana","Nenes",61
+2019,8,"Nou Barris",56,"Vallbona","Nenes",6
+2019,9,"Sant Andreu",57,"la Trinitat Vella","Nenes",55
+2019,9,"Sant Andreu",58,"Baró de Viver","Nenes",11
+2019,9,"Sant Andreu",59,"el Bon Pastor","Nenes",49
+2019,9,"Sant Andreu",60,"Sant Andreu","Nenes",186
+2019,9,"Sant Andreu",61,"la Sagrera","Nenes",108
+2019,9,"Sant Andreu",62,"el Congrés i els Indians","Nenes",60
+2019,9,"Sant Andreu",63,"Navas","Nenes",90
+2019,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Nenes",113
+2019,10,"Sant Martí",65,"el Clot","Nenes",81
+2019,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Nenes",52
+2019,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Nenes",25
+2019,10,"Sant Martí",68,"el Poblenou","Nenes",140
+2019,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Nenes",85
+2019,10,"Sant Martí",70,"el Besòs i el Maresme","Nenes",127
+2019,10,"Sant Martí",71,"Provençals del Poblenou","Nenes",92
+2019,10,"Sant Martí",72,"Sant Martí de Provençals","Nenes",89
+2019,10,"Sant Martí",73,"la Verneda i la Pau","Nenes",82
+2019,1,"Ciutat Vella",1,"el Raval","Nens",222
+2019,1,"Ciutat Vella",2,"el Barri Gòtic","Nens",60
+2019,1,"Ciutat Vella",3,"la Barceloneta","Nens",48
+2019,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Nens",83
+2019,2,"Eixample",5,"el Fort Pienc","Nens",104
+2019,2,"Eixample",6,"la Sagrada Família","Nens",175
+2019,2,"Eixample",7,"la Dreta de l'Eixample","Nens",177
+2019,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Nens",168
+2019,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Nens",219
+2019,2,"Eixample",10,"Sant Antoni","Nens",170
+2019,3,"Sants-Montjuïc",11,"el Poble Sec","Nens",155
+2019,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Nens",7
+2019,3,"Sants-Montjuïc",13,"la Marina de Port","Nens",131
+2019,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Nens",40
+2019,3,"Sants-Montjuïc",15,"Hostafrancs","Nens",53
+2019,3,"Sants-Montjuïc",16,"la Bordeta","Nens",75
+2019,3,"Sants-Montjuïc",17,"Sants - Badal","Nens",113
+2019,3,"Sants-Montjuïc",18,"Sants","Nens",193
+2019,4,"Les Corts",19,"les Corts","Nens",177
+2019,4,"Les Corts",20,"la Maternitat i Sant Ramon","Nens",83
+2019,4,"Les Corts",21,"Pedralbes","Nens",30
+2019,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Nens",16
+2019,5,"Sarrià-Sant Gervasi",23,"Sarrià","Nens",92
+2019,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Nens",61
+2019,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Nens",107
+2019,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Nens",197
+2019,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Nens",138
+2019,6,"Gràcia",28,"Vallcarca i els Penitents","Nens",52
+2019,6,"Gràcia",29,"el Coll","Nens",24
+2019,6,"Gràcia",30,"la Salut","Nens",35
+2019,6,"Gràcia",31,"la Vila de Gràcia","Nens",217
+2019,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Nens",133
+2019,7,"Horta-Guinardó",33,"el Baix Guinardó","Nens",95
+2019,7,"Horta-Guinardó",34,"Can Baró","Nens",41
+2019,7,"Horta-Guinardó",35,"el Guinardó","Nens",153
+2019,7,"Horta-Guinardó",36,"la Font d'en Fargues","Nens",30
+2019,7,"Horta-Guinardó",37,"el Carmel","Nens",107
+2019,7,"Horta-Guinardó",38,"la Teixonera","Nens",35
+2019,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Nens",30
+2019,7,"Horta-Guinardó",40,"Montbau","Nens",17
+2019,7,"Horta-Guinardó",41,"la Vall d'Hebron","Nens",20
+2019,7,"Horta-Guinardó",42,"la Clota","Nens",4
+2019,7,"Horta-Guinardó",43,"Horta","Nens",100
+2019,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Nens",79
+2019,8,"Nou Barris",45,"Porta","Nens",95
+2019,8,"Nou Barris",46,"el Turó de la Peira","Nens",82
+2019,8,"Nou Barris",47,"Can Peguera","Nens",4
+2019,8,"Nou Barris",48,"la Guineueta","Nens",55
+2019,8,"Nou Barris",49,"Canyelles","Nens",19
+2019,8,"Nou Barris",50,"les Roquetes","Nens",79
+2019,8,"Nou Barris",51,"Verdun","Nens",56
+2019,8,"Nou Barris",52,"la Prosperitat","Nens",88
+2019,8,"Nou Barris",53,"la Trinitat Nova","Nens",33
+2019,8,"Nou Barris",54,"Torre Baró","Nens",19
+2019,8,"Nou Barris",55,"Ciutat Meridiana","Nens",84
+2019,8,"Nou Barris",56,"Vallbona","Nens",6
+2019,9,"Sant Andreu",57,"la Trinitat Vella","Nens",61
+2019,9,"Sant Andreu",58,"Baró de Viver","Nens",11
+2019,9,"Sant Andreu",59,"el Bon Pastor","Nens",59
+2019,9,"Sant Andreu",60,"Sant Andreu","Nens",213
+2019,9,"Sant Andreu",61,"la Sagrera","Nens",115
+2019,9,"Sant Andreu",62,"el Congrés i els Indians","Nens",56
+2019,9,"Sant Andreu",63,"Navas","Nens",93
+2019,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Nens",131
+2019,10,"Sant Martí",65,"el Clot","Nens",99
+2019,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Nens",71
+2019,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Nens",36
+2019,10,"Sant Martí",68,"el Poblenou","Nens",139
+2019,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Nens",79
+2019,10,"Sant Martí",70,"el Besòs i el Maresme","Nens",111
+2019,10,"Sant Martí",71,"Provençals del Poblenou","Nens",98
+2019,10,"Sant Martí",72,"Sant Martí de Provençals","Nens",95
+2019,10,"Sant Martí",73,"la Verneda i la Pau","Nens",95
